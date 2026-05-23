@@ -5,7 +5,7 @@ I am a 17-year-old self-taught developer and cybersecurity student from **Myanma
 #### 🛠️ Tech Stack & Skills
 * **Languages:** C++, Python, bash, x86 Assembly
 * **Cybersecurity Focus:** Malware Detection & Analysis, Detection Engineering, 
-* **Tools:** Wireshark, GDB, 
+* **Current Tools:** Wireshark, GDB, 
 
 #### 🤝 Let's connect and collaborate
 I'm always looking to connect with fellow Burmese developers and cybersecurity professionals. 

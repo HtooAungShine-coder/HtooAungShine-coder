@@ -1,4 +1,4 @@
-<img width="736" height="414" alt="g" src="https://github.com/user-attachments/assets/6851047f-31ec-4112-9d62-432ce37bd3ba" />
+<img width="736" height="552" alt="gg" src="https://github.com/user-attachments/assets/666e4832-7f29-40ee-9715-ecb904f8894a" />
 
 ### Hi there ! I'm [Htoo Aung Shine]
 I am a 17-year-old self-taught developer and cybersecurity student from **Myanmar**. Passionate about low-level programming, reversing, and keeping systems safe.

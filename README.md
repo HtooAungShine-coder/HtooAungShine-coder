@@ -5,7 +5,7 @@ I am a 17-year-old self-taught developer and cybersecurity student from **Myanma
 
 #### Tech Stack & Skills
 * **Languages:** C++, Python, bash, x86 Assembly(still learning).
-* **Cybersecurity Focus:** Malware Analysis & Exploit Development , Reverse Engineering, Socket Programming.
+* **Cybersecurity Focus:** Malware Analysis & Malware Development , Reverse Engineering, Socket Programming.
 * **Current Tools:** Wireshark, Ida, Nmap, Metasploit, Ai, Ghidra, Netcat.
 
 #### Let's connect and collaborate
